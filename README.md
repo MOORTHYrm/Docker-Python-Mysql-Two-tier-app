@@ -1,3 +1,4 @@
+<<<<<<< HEAD
  
 # Flask App with MySQL Docker Setup
 
@@ -111,3 +112,6 @@ docker run -d --name flaskapp -v mysql-data:/var/lib/mysql -v ./message.sql:/doc
 
 ```
 
+=======
+# Docker-Python-Mysql-Two-tier-app
+>>>>>>> 24b7deb313cf89f103ba4e0320575b73a8f8122d
